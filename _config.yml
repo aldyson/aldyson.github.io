@@ -20,7 +20,7 @@ linkedin_username: "adrian-dyson"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
