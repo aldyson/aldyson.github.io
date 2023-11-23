@@ -24,6 +24,8 @@ rss: rss
 
 # The github repo that is to be used for looking up comments
 comments_repo: aldyson/aldyson.github.io
+
+home_post_limit: 5
     
 plugins:
   - jekyll-feed
