@@ -26,6 +26,7 @@ rss: rss
 comments_repo: aldyson/aldyson.github.io
 
 home_post_limit: 5
+show_excerpts: true
     
 plugins:
   - jekyll-feed
