@@ -29,10 +29,6 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
-<script src="https://utteranc.es/client.js"
-        repo="aldyson/aldyson.github.io"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+{% if site.comments_repo %}
+  {% include comments.html %}
+{% endif %}

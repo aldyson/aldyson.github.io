@@ -21,6 +21,9 @@ linkedin_username: "adrian-dyson"
 #########################################################################################
 
 rss: rss
+
+# The github repo that is to be used for looking up comments
+comments_repo: aldyson/aldyson.github.io
     
 plugins:
   - jekyll-feed
