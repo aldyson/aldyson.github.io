@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More Posts
+title: All Posts
 ---
 
 {% for tag in site.tags %}
