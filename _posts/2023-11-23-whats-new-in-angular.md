@@ -1,4 +1,10 @@
-## Blog Post Title From First Header
+---
+layout: post
+title: "What's new in Angular 17"
+description: "Taking a look at some of the new language enhancements coming in SQL Server 2022"
+tags: Angular
+---
+
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
@@ -18,3 +24,5 @@ const myFunc = (): void => {
     // Your code here
 };
 ```
+
+### This is another header
